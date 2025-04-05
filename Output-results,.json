@@ -1,0 +1,746 @@
+{
+    "documents": [
+        {
+            "id": "id__3840",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.38,
+                "neutral": 0.09,
+                "negative": 0.53
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.85,
+                        "neutral": 0.09,
+                        "negative": 0.06
+                    },
+                    "offset": 0,
+                    "length": 163,
+                    "text": "    Análise sobre o Influencer Gilberto José Nogueira Junior (Gil do Vigor)---     No começo ele é meio tímido, mas vai se soltando e conquista todo mundo no set. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.03,
+                        "negative": 0
+                    },
+                    "offset": 163,
+                    "length": 37,
+                    "text": "É empenhado, prestativo e atencioso. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 200,
+                    "length": 62,
+                    "text": "Vale cada centavo cobrado, pois entrega qualidade e simpatia.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 262,
+                    "length": 137,
+                    "text": "     Análise sobre o Influencer Igor Cavalari (Igão)     Trabalhar com o Igão foi bem estressante, pois ele simplesmente não tem agenda. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.25,
+                        "negative": 0.73
+                    },
+                    "offset": 399,
+                    "length": 124,
+                    "text": "mesmo alinhando a campanha previamente com os assessores e definindo a data, era um mistério até ela ser realmente postada. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.49,
+                        "negative": 0.41
+                    },
+                    "offset": 523,
+                    "length": 227,
+                    "text": "sem contar que foi enviado a thumb para ele colocar no reels e ele escolheu uma aleatória - e nada a ver com o feed, parecendo ser de propósito aquela escolha - e demorou dias até que ele aceitasse uma nova versão e ajustasse. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 750,
+                    "length": 100,
+                    "text": "MUITA burocracia para uma entrega que não expressa números bacanas, engajamento e conversão baixos.\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 803,
+                            "length": 7,
+                            "text": "números",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 811,
+                            "length": 7,
+                            "text": "bacanas",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 850,
+                    "length": 84,
+                    "text": "     Análise sobre a Influencer Maria Luiza Borges (Malu borges)      Insuportável. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.17,
+                        "negative": 0.83
+                    },
+                    "offset": 934,
+                    "length": 42,
+                    "text": "Não aceita ajustes mesmo que sejam finos. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0,
+                        "negative": 0.88
+                    },
+                    "offset": 976,
+                    "length": 68,
+                    "text": "O Valor era altissímo, mais de 600k e a bonita nao respeitava nada. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.64,
+                        "negative": 0.35
+                    },
+                    "offset": 1044,
+                    "length": 6,
+                    "text": "NADA! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.95,
+                        "negative": 0.02
+                    },
+                    "offset": 1050,
+                    "length": 38,
+                    "text": "Postou mais de 2 publis no mesmo dia. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1088,
+                    "length": 71,
+                    "text": "No shoot ela parecia ser razoavel  mas na hora de postar, que inferno.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.23,
+                        "negative": 0.75
+                    },
+                    "offset": 1159,
+                    "length": 87,
+                    "text": "     Análise sobre a Influencer Gessica Kayane Rocha de Vasconcelos (Gkay)     Insano. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.04,
+                        "negative": 0.96
+                    },
+                    "offset": 1246,
+                    "length": 78,
+                    "text": "Eu não sou de fomentar o cancelamento mas essa  aí,ela não pede, ela implora! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1324,
+                    "length": 108,
+                    "text": "Simplesmente não cumpre agenda, não respeita o briefing e se ela quebrou a unha no dia da postagem, esquece!",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 1377,
+                            "length": 8,
+                            "text": "briefing",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/15/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/15/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.06,
+                                "negative": 0.94
+                            },
+                            "offset": 1366,
+                            "length": 8,
+                            "text": "respeita",
+                            "isNegated": true
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 1395,
+                            "length": 7,
+                            "text": "quebrou",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 1432,
+                    "length": 61,
+                    "text": "É luto pela unha quebrada e lá sabe deus quando será postado\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.12,
+                        "negative": 0.83
+                    },
+                    "offset": 1493,
+                    "length": 117,
+                    "text": "     Análise sobre o Influencer Matheus Costa      PQP, se existe influenciador mais insuportavel, matheus é o cara. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 1610,
+                    "length": 153,
+                    "text": "A marca era super legal e famosa, pagaram uma grana preta , de fato tudo foi meio corrido mas a equipe dele estava ciente e belezinha de acordo fechado. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1620,
+                            "length": 5,
+                            "text": "marca",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/18/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/18/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1636,
+                            "length": 5,
+                            "text": "legal",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1644,
+                            "length": 6,
+                            "text": "famosa",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0,
+                        "negative": 0.1
+                    },
+                    "offset": 1763,
+                    "length": 47,
+                    "text": "Bom, o bonito não gosta de calor, poxa vida!!! ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 1778,
+                            "length": 6,
+                            "text": "bonito",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/19/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 1789,
+                            "length": 5,
+                            "text": "gosta",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1810,
+                    "length": 136,
+                    "text": "Não ficou com os outros influenciadores (que diga-se de passagem: eram globais e era no maximo uns 3) , ficou reclamando de tudo, tudo. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.87,
+                        "negative": 0.06
+                    },
+                    "offset": 1946,
+                    "length": 11,
+                    "text": "TUDOOOOOO! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 1957,
+                    "length": 123,
+                    "text": "Não houve atraso, não era a comida que estava ruim, não era briefing porcamente elaborado, era ele que estava chato mesmo. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 1993,
+                            "length": 6,
+                            "text": "comida",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/22/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 2011,
+                            "length": 4,
+                            "text": "ruim",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.87,
+                        "neutral": 0.03,
+                        "negative": 0.11
+                    },
+                    "offset": 2080,
+                    "length": 106,
+                    "text": "Alem disso, o escopo era curto, 1 reels e 1 combo de stories mas o bonito deu um trabalho pra fazer isso. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.2,
+                                "negative": 0.8
+                            },
+                            "offset": 2102,
+                            "length": 6,
+                            "text": "escopo",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/23/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.2,
+                                "negative": 0.8
+                            },
+                            "offset": 2113,
+                            "length": 5,
+                            "text": "curto",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.46,
+                        "negative": 0.51
+                    },
+                    "offset": 2186,
+                    "length": 83,
+                    "text": "Alem do que, nao entrgeou o reels ate hj pq ele decidia mudar toda hora o roteiro.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.41,
+                        "neutral": 0.59,
+                        "negative": 0
+                    },
+                    "offset": 2269,
+                    "length": 112,
+                    "text": "   Análise sobre a Influenciadora Jade Picon     Jade é extremamente profissional e comprometida com a entrega. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2327,
+                            "length": 4,
+                            "text": "Jade",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/25/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/25/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2347,
+                            "length": 12,
+                            "text": "profissional",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 2362,
+                            "length": 12,
+                            "text": "comprometida",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 2381,
+                    "length": 117,
+                    "text": "foi super colaborativa com a marca, muito pontual com a entrega, presença no set e muito educada e gentil com todos.\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2446,
+                            "length": 7,
+                            "text": "entrega",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/26/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/26/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2455,
+                            "length": 8,
+                            "text": "presença",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/26/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/26/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2479,
+                            "length": 7,
+                            "text": "educada",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2489,
+                            "length": 6,
+                            "text": "gentil",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 2498,
+                    "length": 86,
+                    "text": "     Análise sobre o ator Caio Castro      Foi ótimo, ele é super desenrolado e agil! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.53,
+                        "negative": 0.45
+                    },
+                    "offset": 2584,
+                    "length": 49,
+                    "text": "Ele é meio quieto no começo mas vai se soltando. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 2633,
+                    "length": 23,
+                    "text": "Super proativo e agil. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.45,
+                        "negative": 0.02
+                    },
+                    "offset": 2656,
+                    "length": 30,
+                    "text": "Terminou tudo antes do tempo. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.63,
+                        "neutral": 0.33,
+                        "negative": 0.04
+                    },
+                    "offset": 2686,
+                    "length": 16,
+                    "text": "Me surpreendeu.\n",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
