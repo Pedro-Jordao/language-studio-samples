@@ -1,5 +1,5 @@
 # language-studio-samples
-language-studio-samples
+Minhas Conclusões após experimentar o Language Studio Para um curso de trilha da Digital Innovation One lecionado por Valéria Baptista.
 
 Reação "somando" todos os textos:
 
